@@ -1,0 +1,19 @@
+normalization of audio levels is a process used to adjust the volume of an audio signal to a standard or desire level.
+the goal of normalization is to consits the loudness and pitch from being too quiet or too loud.
+select an audio editing softaware by using adobe audition
+import your audio file
+select audio part to noormalize u can select full audio file or u can select the specific part of audio file.
+normalize audio:in adobe audition fo to the effect menu select amplitude and compression and then choose normalize adjust the settings as needed.
+preview and apply:before applying the normalization preview of audio and adjsut according to settings.
+apply normalization:once u applied the settings according to your option apply normalization.
+this process adjust the volume levels.
+save the normalization audio:
+after the normalization you save the audio.
+Use normalization as a part of your overall audio processing workflow. It's common to perform other tasks such as equalization, compression, and limiting to achieve the desired audio quality.
+Consider using LUFS (Loudness Units Full Scale) normalization for broadcast or streaming content, as it takes into account perceived loudness rather than just peak levels.
+It's a good practice to work with high-resolution audio files (e.g., 24-bit) to maintain audio quality during processing.
+Save a copy of the original audio file before normalizing in case you need to revert to the original levels.
+noise reduction:
+noise reduction is also done by the adobe audition,izotope rx,audacity,ceder audio dns series
+spectral editing this technique invloves identify and selecting noise frequency withinn a recording and applying spectral editing tools.
+adaptive noise reduction:it use the adaptive noise reduction 
